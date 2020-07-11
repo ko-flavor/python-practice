@@ -16,8 +16,3 @@ for I in range(0,N):
               ANS = max(ANS,LEN)
 
 print(ANS)
-
-
-
-
-
